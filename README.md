@@ -10,8 +10,9 @@ A lightweight PDF summarization tool using Hugging Face's T5-small model, with F
 - 🖥️ Streamlit web interface
 - ⚡ Optimized for CPU-only environments
 
+
 ![App Demo](images/AI-Summarizer-ss1.png) <!-- Main screenshot showing the interface -->
-![Example Result](images/AI-Summarizer-ss12.png) <!-- Screenshot showing a summary result -->
+![Example Result](images/AI-Summarizer-ss2.png) <!-- Screenshot showing a summary result -->
 
 ## Installation
 
