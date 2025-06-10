@@ -2,8 +2,6 @@
 
 A lightweight PDF summarization tool using Hugging Face's T5-small model, with Flask backend and Streamlit UI.
 
-![Demo](https://img.shields.io/badge/Demo-Available-green) ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-
 ## Features
 
 - 📄 Extract text from PDFs using `pdfplumber`
@@ -11,6 +9,9 @@ A lightweight PDF summarization tool using Hugging Face's T5-small model, with F
 - 🌐 Flask REST API backend
 - 🖥️ Streamlit web interface
 - ⚡ Optimized for CPU-only environments
+
+![App Demo](images/AI-Summarizer-ss1.png) <!-- Main screenshot showing the interface -->
+![Example Result](images/AI-Summarizer-ss12.png) <!-- Screenshot showing a summary result -->
 
 ## Installation
 
